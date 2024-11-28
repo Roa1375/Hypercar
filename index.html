@@ -1,10 +1,64 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Welcome to My GitHub Page</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Responsive Material UI Page</title>
+    <!-- Materialize CSS (Material Design) -->
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css" rel="stylesheet">
+    <style>
+        body {
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
+            margin: 0;
+        }
+
+        .logo {
+            position: fixed;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            background: white;
+            z-index: 1000;
+            width: 120px;
+            padding: 10px;
+        }
+
+        .content {
+            flex: 1;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-top: 100px; /* Prevent overlap with fixed logo */
+        }
+
+        .buttons {
+            position: fixed;
+            bottom: 20px;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+        }
+    </style>
 </head>
 <body>
-    <h1>Hello, World!</h1>
-    <p>Welcome to my website hosted on GitHub Pages.</p>
+    <!-- Fixed Logo -->
+    <img src="https://via.placeholder.com/120" alt="Logo" class="logo">
+
+    <!-- Main Content -->
+    <div class="content">
+        <h1>Welcome to the Material UI Page</h1>
+    </div>
+
+    <!-- Buttons at the Bottom -->
+    <div class="buttons">
+        <a href="index.php" class="btn blue waves-effect waves-light">Payment</a>
+        <a href="update-manager.php" class="btn green waves-effect waves-light">Update manager</a>
+    </div>
+
+    <!-- Materialize JS -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 </body>
 </html>
