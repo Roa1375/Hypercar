@@ -36,7 +36,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>App Update Manager</title>
     <style>
         /* Base Styles */
@@ -105,6 +105,12 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
             font-size: 1rem;
         }
 
+        input::placeholder,
+        textarea::placeholder {
+            color: #888;
+            font-style: italic;
+        }
+
         button {
             background-color: #007bff;
             color: #fff;
@@ -155,15 +161,15 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <h1>App Update Manager</h1>
     <div class="container">
         <div class="current-info">
-            <p><strong>Current Version:</strong> <?php echo htmlspecialchars($data['latest_version']); ?></p>
+            <p><strong>Current Version:</strong> <?php echo htmlspecialchars($data['latest_version'] ?? 'N/A'); ?></p>
             <p><strong>Current Changelog:</strong></p>
-            <pre><?php echo htmlspecialchars($data['changelog']); ?></pre>
+            <pre><?php echo htmlspecialchars($data['changelog'] ?? 'No changelog available'); ?></pre>
         </div>
         <form method="post">
             <label for="latest_version">Latest Version:</label>
-            <input type="text" id="latest_version" name="latest_version" value="" required>
+            <input type="text" id="latest_version" name="latest_version" placeholder="Enter the latest version">
             <label for="changelog">Changelog:</label>
-            <textarea id="changelog" name="changelog" required></textarea>
+            <textarea id="changelog" name="changelog" placeholder="Enter the changelog"></textarea>
             <button type="submit">Update</button>
         </form>
     </div>
