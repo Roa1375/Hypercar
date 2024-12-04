@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.4.0.0",
-    "changelog": "-Added new UI style (Meizu Auto)\r\n-Fixed Display mode button bug\r\n-Ui improvement \r\n-Bug fix"
+    "latest_version": "1.4.1.0",
+    "changelog": "-OBDII Protocol Optimized \r\n-Speed and Trip Widget bugs fixed\r\n-Some of Ui elements changed \r\n-Useless elements removed due to less ram usage \r\n- Account and Premium page changed "
 }
