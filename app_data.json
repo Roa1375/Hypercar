@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.4.1.0",
-    "changelog": "-OBDII Protocol Optimized \r\n-Speed and Trip Widget bugs fixed\r\n-Some of Ui elements changed \r\n-Useless elements removed due to less ram usage \r\n- Account and Premium page changed "
+    "latest_version": "1.5.0.0",
+    "changelog": "-Added Notification panel\r\n-Added 2 style for media notifications\r\n-UI Improvement\r\n-Minor fixes\r\nNotice: when you turn on notification panel, the settings button reorder as notification panel trigger and settings button also available inside notification panel"
 }
