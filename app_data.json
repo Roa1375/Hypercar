@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.5.0.0",
-    "changelog": "-Added Notification panel\r\n-Added 2 style for media notifications\r\n-UI Improvement\r\n-Minor fixes\r\nNotice: when you turn on notification panel, the settings button reorder as notification panel trigger and settings button also available inside notification panel"
+    "latest_version": "1.5.1.0",
+    "changelog": "-PIP Removed Due to the lack of functionality and weight reduction of the program\r\n-Ui Improvement\r\n-Some Bug fixes \r\n-Some Ui changes"
 }
