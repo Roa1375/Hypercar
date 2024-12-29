@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.5.1.0",
-    "changelog": "-PIP Removed Due to the lack of functionality and weight reduction of the program\r\n-Ui Improvement\r\n-Some Bug fixes \r\n-Some Ui changes"
+    "latest_version": "1.5.2.0",
+    "changelog": "-Added new Horizontal mode for Widgets \r\n-Request Notification access changed, for some headunits that not have notification permission section in settings,so you don't force to grant notification access if you don't enable notification panel\r\n-some ui changes \r\n-minor bug fixes \r\n-target sdk of app updated to android 15"
 }
