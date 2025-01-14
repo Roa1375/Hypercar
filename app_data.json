@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.5.2.0",
-    "changelog": "-Added new Horizontal mode for Widgets \r\n-Request Notification access changed, for some headunits that not have notification permission section in settings,so you don't force to grant notification access if you don't enable notification panel\r\n-some ui changes \r\n-minor bug fixes \r\n-target sdk of app updated to android 15"
+    "latest_version": "1.5.3.2",
+    "changelog": "-Login Fixed for all devices \r\n-Added Disable Animation button to get better speed in low ram headunits \r\n-Added new Music Widget (beta, maybe not working, i,m working on it)\r\n-Added lazy loading to music player to less ram usage\r\n-Ui Improvements\r\n-Bug Fixes "
 }
