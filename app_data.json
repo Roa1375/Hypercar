@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.5.3.2",
-    "changelog": "-Login Fixed for all devices \r\n-Added Disable Animation button to get better speed in low ram headunits \r\n-Added new Music Widget (beta, maybe not working, i,m working on it)\r\n-Added lazy loading to music player to less ram usage\r\n-Ui Improvements\r\n-Bug Fixes "
+    "latest_version": "1.5.4.1",
+    "changelog": "-Added new UI style( Hyundai Ui)\r\n-Added new car(Changan cs35+ 2024)\r\n-Added new car(HAVAL JOLION 2024)\r\n-Added Auto theme cycle\r\n-Mycar page revamped \r\n-Ui Improvements \r\n-Ui Improvements for Meziu auto style\r\n-Open Street map has changed \r\n-yandex maps has some tweak's \r\n-minor bug fixes "
 }
