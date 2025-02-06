@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.5.4.1",
-    "changelog": "-Added new UI style( Hyundai Ui)\r\n-Added new car(Changan cs35+ 2024)\r\n-Added new car(HAVAL JOLION 2024)\r\n-Added Auto theme cycle\r\n-Mycar page revamped \r\n-Ui Improvements \r\n-Ui Improvements for Meziu auto style\r\n-Open Street map has changed \r\n-yandex maps has some tweak's \r\n-minor bug fixes "
+    "latest_version": "1.5.5.0",
+    "changelog": "-Added New UI (BYD EV-UI 5)\r\n-Added Side-by-side app (or freeform if supported)\r\n-Added new car( Santa Fe 2006)\r\n-App Drawer minor changes\r\n-Ui Improvements \r\n-Bug Fixes"
 }
