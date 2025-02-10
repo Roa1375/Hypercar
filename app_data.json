@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.5.5.0",
-    "changelog": "-Added New UI (BYD EV-UI 5)\r\n-Added Side-by-side app (or freeform if supported)\r\n-Added new car( Santa Fe 2006)\r\n-App Drawer minor changes\r\n-Ui Improvements \r\n-Bug Fixes"
+    "latest_version": "1.5.6.0",
+    "changelog": "- Settings fully remaked\r\n- Previous Widgets fully removed \r\n- New Widget System Added\r\n- App speed optimized (90% faster)\r\n- Hyundai Ui Removed because of not \r\n  capability\r\n- Ui Improvements \r\n- Minor Bug fixes "
 }
