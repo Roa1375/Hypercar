@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.5.6.0",
-    "changelog": "- Settings fully remaked\r\n- Previous Widgets fully removed \r\n- New Widget System Added\r\n- App speed optimized (90% faster)\r\n- Hyundai Ui Removed because of not \r\n  capability\r\n- Ui Improvements \r\n- Minor Bug fixes "
+    "latest_version": "1.5.7.0",
+    "changelog": "-App Fully Revived \ud83d\uddff\r\n-Added Missing Translations \r\n-Api of App upgraded \r\n-Runtime permissions fixed\r\n-Auto theme fixed\r\n-Need Restart to apply settings \r\n became less\r\n-Ui Improvements \r\n-Bug Fixes"
 }
