@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.5.7.0",
-    "changelog": "-App Fully Revived \ud83d\uddff\r\n-Added Missing Translations \r\n-Api of App upgraded \r\n-Runtime permissions fixed\r\n-Auto theme fixed\r\n-Need Restart to apply settings \r\n became less\r\n-Ui Improvements \r\n-Bug Fixes"
+    "latest_version": "1.5.7.1",
+    "changelog": "-Added OSM (Open Street Maps)\r\n (Include Russia map)\r\n (Accessible from control panel)\r\n-Added Another Style for music widget \r\n (Can be enabled in widget settings)\r\n-Minor Bug fixes \r\n-Ui Improvements "
 }
