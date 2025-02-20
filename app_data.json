@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.5.7.1",
-    "changelog": "-Added OSM (Open Street Maps)\r\n (Include Russia map)\r\n (Accessible from control panel)\r\n-Added Another Style for music widget \r\n (Can be enabled in widget settings)\r\n-Minor Bug fixes \r\n-Ui Improvements "
+    "latest_version": "1.5.8.0",
+    "changelog": "-Added Freeform view \r\n(use with pinned apps in taskbar)\r\n-BYD EV UI overlapping fixed\r\n-Ui Improvements \r\n-Minor Bug fixes "
 }
