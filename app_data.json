@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.5.8.2",
-    "changelog": "Added Routing system to osm\r\nAdded traffic to osm\r\nAdded map widget to home screen\r\nAdded Double freeform\r\nOptimized freeform\r\nOptimized Control panel for large screens\r\nTaskbar Ui improvements \r\nUi improvements \r\nminor bug fixes"
+    "latest_version": "1.5.8.3",
+    "changelog": "Added Update Manager\r\nOptimized Routing system\r\nMinor Bug Fixes"
 }
