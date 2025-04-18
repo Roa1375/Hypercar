@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.6.0.1",
-    "changelog": "Added Geely Ui\r\nAdded Radio\r\nAdded Radio widget\r\nAdded new Control panel ui\r\nAdded new Ui Switch page\r\nAdded Mini widget switch\r\nAdded New about page\r\nMini map widget enless refreshing fixed\r\nMinor Widgets ui fixes\r\nMusic Widget functions updated\r\nNotification panel functions updated\r\nSettings and main page optimized\r\nYT Music and Spotify remote removed\r\nUi Improvements\r\nMinor Bug fixes"
+    "latest_version": "1.6.1.1",
+    "changelog": "Added Hyundai PleOS UI\r\nAdded Native weather widget with offline support \r\nAdded RTL horizontal hyperos ui\r\nAdded RTL horizontal carplay ui\r\nAdded new car: Dongfeng Shine\r\nAdded new car: Nissan Sentra 2014\r\nTaskbar item spacing fixed for some ui styles\r\nSome minor bugfix and optimizations\r\nUi Improvements "
 }
