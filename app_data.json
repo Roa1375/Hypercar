@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.6.1.1",
-    "changelog": "Added Hyundai PleOS UI\r\nAdded Native weather widget with offline support \r\nAdded RTL horizontal hyperos ui\r\nAdded RTL horizontal carplay ui\r\nAdded new car: Dongfeng Shine\r\nAdded new car: Nissan Sentra 2014\r\nTaskbar item spacing fixed for some ui styles\r\nSome minor bugfix and optimizations\r\nUi Improvements "
+    "latest_version": "1.6.2.0",
+    "changelog": "New Account system added\r\nNew membership system added\r\nNew Control panel UI fixed\r\n\"Use gps\" button in obd fixed\r\nSome minor bugfix and optimizations \r\nMinor ui changes"
 }
