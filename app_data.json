@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.6.2.0",
-    "changelog": "New Account system added\r\nNew membership system added\r\nNew Control panel UI fixed\r\n\"Use gps\" button in obd fixed\r\nSome minor bugfix and optimizations \r\nMinor ui changes"
+    "latest_version": "1.6.3.0",
+    "changelog": "Redesigned widget settings\r\nAdded Volume control widget\r\nAdded brightness control widget\r\nAdded Horizontal Style for settings\r\nMinor bugfix"
 }
