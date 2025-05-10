@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.6.3.0",
-    "changelog": "Redesigned widget settings\r\nAdded Volume control widget\r\nAdded brightness control widget\r\nAdded Horizontal Style for settings\r\nMinor bugfix"
+    "latest_version": "1.6.4.0",
+    "changelog": "Added Android Auto style\r\nAdded Icon Round Customize \r\nLocal music player Redesigned \r\nweather city selection bug fixed \r\nAdded Media source selection for Music Widget \r\n(Switch between Media session or Notification access)\r\nMinor bugfix\r\nUi improvement"
 }
