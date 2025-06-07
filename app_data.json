@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.6.5.0",
-    "changelog": "Addd Custom Theme System\r\nAdded Mercedes-Benz C-Classs w203\r\nAdded Volkswagen Gol 7\r\nMinor bugfix\r\nUi improvement"
+    "latest_version": "1.6.6.1",
+    "changelog": "Added PIP (BETA)\r\nFixed Taskbar icons disappearing\r\nFixed BYD Ev-Ui icons missing\r\nSome Ui improvements\r\nMinor Bug fixes"
 }
