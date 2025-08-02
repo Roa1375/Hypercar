@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.6.6.1",
-    "changelog": "Added PIP (BETA)\r\nFixed Taskbar icons disappearing\r\nFixed BYD Ev-Ui icons missing\r\nSome Ui improvements\r\nMinor Bug fixes"
+    "latest_version": "1.6.7.0",
+    "changelog": "Settings Ui Redesigned \r\nLive shapes(like  about page) removed for better ram usage\r\nAccount button moved to settings title bar\r\nMinor widgets ui change \r\nMinor bug fixes"
 }
