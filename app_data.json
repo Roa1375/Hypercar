@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.6.7.0",
-    "changelog": "Settings Ui Redesigned \r\nLive shapes(like  about page) removed for better ram usage\r\nAccount button moved to settings title bar\r\nMinor widgets ui change \r\nMinor bug fixes"
+    "latest_version": "1.7.0.0",
+    "changelog": "Settings fully remaked (switched to Native)\r\nSettings Ui Redesigned \r\nApp ram usage improved\r\nTheme picker removed\r\nMusic widget fully remaked (now works for all)\r\nNotification panel removed\r\nAlso notification service cleaned for widgets use\r\nAnd prevent using ram\r\nSettings for free users available (limited)\r\nApp bugs fixed"
 }
