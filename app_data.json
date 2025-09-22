@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.7.0.0",
-    "changelog": "Settings fully remaked (switched to Native)\r\nSettings Ui Redesigned \r\nApp ram usage improved\r\nTheme picker removed\r\nMusic widget fully remaked (now works for all)\r\nNotification panel removed\r\nAlso notification service cleaned for widgets use\r\nAnd prevent using ram\r\nSettings for free users available (limited)\r\nApp bugs fixed"
+    "latest_version": "1.7.1.0",
+    "changelog": "App crash fixed\r\nApp icon updated \r\nNew My Car page added, now you can add any car you want\r\nSwitches updated to android 16 style\r\nAdded Inline PIP widget \r\nAdded Media control in both control panel styles \r\nSettings got redesign again"
 }
