@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.7.1.3",
-    "changelog": "Added settings items size change \r\nAdded settings items corner radius change \r\nAdded settings items margin change \r\nFixed switch track size\r\nFixed mini widget ui\r\nMinor Ui improvements\r\nBug fixes"
+    "latest_version": "1.7.6.0",
+    "changelog": "Added new taskbar media control\r\nAdded Media session to radio\r\nAdded Media session to music player\r\nMusic player got redesigned\r\nRadio got redesigned\r\nMy car settings updated\r\nLanguage settings updated\r\nSize of widgets in main card enabled fixed\r\nUi Improvements\r\nMinor bug fixes"
 }
