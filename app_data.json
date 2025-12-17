@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.7.7.0",
-    "changelog": "Added Wide music card\r\nAdded Liquid glass icon\r\nCarplay styles updated with liquid glass \r\nColor picker and Seek bars Updated and got optimization for sizes\r\nBug fixes \r\nUI Improvements"
+    "latest_version": "1.8.0.0",
+    "changelog": "Added icon pack support \r\nAdded speed main card\r\nAdded calendar widget \r\nAdded Route widget (edit in widget settings)\r\nAdded Clock and Calendar App\r\nWeather widget api changed \r\nAdded Hourly weather \r\n(New weather uses GPS and doesn't need your city name)\r\nUi Improvements \r\nBug fixes "
 }
