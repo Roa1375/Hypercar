@@ -1,4 +1,4 @@
 {
-    "latest_version": "1.8.3.3.0",
-    "changelog": "Added new style ( VW ID POLO 2026)\r\nMusic widget ui improved\r\nUi Improvements\r\nBug fixes"
+    "latest_version": "1.8.4.4.2",
+    "changelog": "added spotify client\r\nadded yandex music client\r\nadded yandex maps\r\nadded notification panel\r\nadded dynamic island\r\nadded freefrom pip with hiden api\r\nadded new free grid home screen\r\ntaskbar linked with pip\r\napp drawer reworked\r\nobd reader reworked\r\napp fully optimized\r\nbug fixes\r\nui improvments"
 }
